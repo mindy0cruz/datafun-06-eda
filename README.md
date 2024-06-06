@@ -36,7 +36,7 @@ py -m pip install -r requirements.txt
 py -m pip freeze > requirements.txt
     
 
-Data Set
+# Data Set
 I am using the exercise data set that displays diet type, pulse, type of exercise and time spent exercising
 
 https://github.com/mwaskom/seaborn-data/blob/master/exercise.csv
