@@ -27,12 +27,15 @@ git clone https://github.com/mindy0cruz/datafun-06-eda
 # Virtual Environment
 
 py -m venv .venv
+
 .\.venv\Scripts\activate
 
 # Install required packages
 
 py -m pip install jupyterlab pandas matplotlib seaborn pyarrow
+
 py -m pip install -r requirements.txt
+
 py -m pip freeze > requirements.txt
     
 
