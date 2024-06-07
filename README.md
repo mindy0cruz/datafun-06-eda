@@ -43,3 +43,8 @@ py -m pip freeze > requirements.txt
 I am using the exercise data set that displays diet type, pulse, type of exercise and time spent exercising
 
 https://github.com/mwaskom/seaborn-data/blob/master/exercise.csv
+
+Udated- I changed data to a custom set of WNBA player data. I also edited the stats to condense them to make them easier to work with. 
+
+# Created Jupyter Notebook
+
